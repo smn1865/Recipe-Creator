@@ -1,7 +1,4 @@
-"""Load, inspect, and clean the Food.com recipes dataset.
-
-Uses only pandas, numpy, and matplotlib.pyplot.
-"""
+# Esli shto stei commentnery chjnjeq indz petqa
 
 from __future__ import annotations
 
